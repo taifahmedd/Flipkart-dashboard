@@ -1,0 +1,501 @@
+Order_ID,Product_Name,Category,Sub_Category,Seller,Order_Date,Delivery_Date,State,City,Quantity,Price,Discount,Profit,Rating
+OD00001,Level Laptops,Electronics,Laptops,"Carpenter, Berg and Flowers",2025-01-28,2025-07-15,Maharashtra,Pune,3,8946.24,240.65,6989.81,1.9
+OD00002,Front Athletic Wear,Sports,Athletic Wear,Lewis-Reed,2024-12-31,2025-07-16,Maharashtra,Mumbai,3,3421.52,773.01,531.99,1.4
+OD00003,Range Healthcare,Beauty & Health,Healthcare,Walters Group,2024-09-08,2025-07-17,Maharashtra,Mumbai,1,1070.88,181.31,126.3,4.6
+OD00004,Study Women's Clothing,Fashion,Women's Clothing,"Frazier, Cross and Harvey",2025-04-24,2025-07-13,Uttar Pradesh,Lucknow,2,2825.37,523.44,1474.84,4.9
+OD00005,Marriage Furniture,Home & Kitchen,Furniture,Ramos Group,2025-01-15,2025-07-11,Uttar Pradesh,Lucknow,3,832.45,167.74,265.95,1.7
+OD00006,Laugh Mobiles,Electronics,Mobiles,"Wolf, Clark and Espinoza",2025-06-20,2025-07-20,Karnataka,Mysore,1,7229.67,2055.39,962.77,1.7
+OD00007,Man Women's Clothing,Fashion,Women's Clothing,Jackson Ltd,2025-03-22,2025-07-11,Uttar Pradesh,Noida,4,7389.13,1224.0,4858.97,1.7
+OD00008,Here Footwear,Fashion,Footwear,"Fischer, Davis and Steele",2024-12-12,2025-07-16,Karnataka,Bangalore,2,5807.78,1268.2,1895.98,4.9
+OD00009,Old Mobiles,Electronics,Mobiles,Banks and Sons,2024-11-27,2025-07-19,Uttar Pradesh,Lucknow,5,7742.98,1731.11,9791.45,3.3
+OD00010,Your Outdoor Sports,Sports,Outdoor Sports,"Hood, Patton and Robertson",2025-01-07,2025-07-17,West Bengal,Kolkata,1,9160.13,274.58,2355.88,4.2
+OD00011,Outside Outdoor Sports,Sports,Outdoor Sports,"Johnson, Williams and Williams",2025-02-17,2025-07-16,West Bengal,Kolkata,4,7477.65,1644.27,5091.5,3.8
+OD00012,List Mobiles,Electronics,Mobiles,Martinez LLC,2025-06-17,2025-07-14,Uttar Pradesh,Lucknow,3,3895.98,619.4,1012.03,3.7
+OD00013,Always Home Decor,Home & Kitchen,Home Decor,Mcdonald Ltd,2024-08-10,2025-07-12,Karnataka,Bangalore,1,7474.51,1270.82,897.23,2.1
+OD00014,Best Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Miller-Tucker,2024-07-15,2025-07-14,Karnataka,Mysore,5,3606.41,614.75,3960.87,4.2
+OD00015,Order Tablets,Electronics,Tablets,Richardson Inc,2025-03-04,2025-07-13,Delhi,New Delhi,4,4402.85,612.67,1263.52,2.2
+OD00016,As Men's Clothing,Fashion,Men's Clothing,Young Group,2025-07-02,2025-07-16,Karnataka,Bangalore,2,3146.43,709.37,1058.06,3.4
+OD00017,Thousand Women's Clothing,Fashion,Women's Clothing,"Conrad, Owens and Lawrence",2024-09-11,2025-07-19,Tamil Nadu,Chennai,2,7537.79,1385.23,3691.29,1.4
+OD00018,Speech Furniture,Home & Kitchen,Furniture,"Cooper, Rojas and Hughes",2025-01-01,2025-07-16,Uttar Pradesh,Lucknow,5,7830.62,862.04,7629.5,2.9
+OD00019,Newspaper Skincare,Beauty & Health,Skincare,"Ellis, Mack and Taylor",2025-06-16,2025-07-13,West Bengal,Kolkata,2,808.76,10.88,331.19,3.3
+OD00020,Production Mobiles,Electronics,Mobiles,Brewer-Bautista,2024-11-22,2025-07-15,Uttar Pradesh,Noida,2,3006.87,1.41,1633.56,1.3
+OD00021,Guy Men's Clothing,Fashion,Men's Clothing,Rivera-Macias,2024-07-14,2025-07-18,Karnataka,Bangalore,2,8089.07,234.2,2420.38,2.0
+OD00022,Produce Furniture,Home & Kitchen,Furniture,Wells PLC,2024-11-30,2025-07-18,Tamil Nadu,Coimbatore,3,3029.0,503.21,1999.11,3.2
+OD00023,Act Healthcare,Beauty & Health,Healthcare,Rowe-Phelps,2025-04-29,2025-07-12,Tamil Nadu,Chennai,1,3259.3,865.11,153.03,4.9
+OD00024,Cause Skincare,Beauty & Health,Skincare,Brown Group,2024-10-30,2025-07-18,West Bengal,Kolkata,1,526.01,78.29,81.68,4.5
+OD00025,Participant Outdoor Sports,Sports,Outdoor Sports,Kent-Ramos,2024-08-22,2025-07-15,West Bengal,Kolkata,3,7300.88,1451.53,3201.62,4.5
+OD00026,Interesting Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Austin, Jones and Thompson",2025-02-24,2025-07-14,Karnataka,Mysore,2,5654.04,1247.15,2307.89,2.0
+OD00027,Five Makeup,Beauty & Health,Makeup,"Skinner, Bennett and Watson",2025-01-11,2025-07-16,Maharashtra,Pune,2,3784.7,215.41,1086.98,3.6
+OD00028,Religious Women's Clothing,Fashion,Women's Clothing,"Lynch, Ward and Williams",2025-01-14,2025-07-17,Karnataka,Bangalore,1,2020.88,577.02,323.84,1.8
+OD00029,My Outdoor Sports,Sports,Outdoor Sports,"Dickson, Kirby and Carter",2024-09-17,2025-07-17,Delhi,New Delhi,5,1100.43,175.01,870.97,4.9
+OD00030,Wide Mobiles,Electronics,Mobiles,Brown LLC,2024-09-23,2025-07-15,Tamil Nadu,Chennai,4,8515.21,1756.21,9467.56,4.8
+OD00031,Guy Men's Clothing,Fashion,Men's Clothing,Ware Group,2024-09-22,2025-07-12,Tamil Nadu,Coimbatore,1,6367.85,859.03,441.02,3.9
+OD00032,Choice Men's Clothing,Fashion,Men's Clothing,Smith Ltd,2024-10-08,2025-07-13,Maharashtra,Pune,5,8993.37,2459.14,3735.19,3.6
+OD00033,Note Furniture,Home & Kitchen,Furniture,"Moore, Miller and Murray",2024-10-11,2025-07-15,Delhi,New Delhi,5,1337.65,186.08,1810.07,1.1
+OD00034,Simply Footwear,Fashion,Footwear,Hamilton and Sons,2025-06-18,2025-07-13,Delhi,New Delhi,1,3002.65,532.42,343.16,1.3
+OD00035,Them Healthcare,Beauty & Health,Healthcare,Haas Inc,2024-12-27,2025-07-12,Karnataka,Bangalore,1,7323.91,2145.36,1508.54,1.2
+OD00036,Son Men's Clothing,Fashion,Men's Clothing,Smith Group,2025-05-22,2025-07-11,West Bengal,Kolkata,2,2202.55,421.42,885.68,3.5
+OD00037,Culture Athletic Wear,Sports,Athletic Wear,Smith-Stokes,2025-04-07,2025-07-17,Uttar Pradesh,Lucknow,1,6370.48,1119.88,682.91,2.8
+OD00038,There Healthcare,Beauty & Health,Healthcare,Kirby-Harper,2024-08-02,2025-07-14,Maharashtra,Pune,4,5601.52,797.03,1799.2,2.8
+OD00039,Him Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Rocha-Reyes,2024-09-04,2025-07-15,Karnataka,Bangalore,4,5416.05,1020.45,2466.56,4.7
+OD00040,Find Women's Clothing,Fashion,Women's Clothing,Jackson Ltd,2024-10-19,2025-07-20,Karnataka,Bangalore,2,5127.1,1495.19,2436.93,4.5
+OD00041,Maybe Healthcare,Beauty & Health,Healthcare,Miller LLC,2025-06-16,2025-07-15,Uttar Pradesh,Lucknow,3,2131.34,24.54,1051.07,4.0
+OD00042,Change Makeup,Beauty & Health,Makeup,"Hunter, Anderson and Harrison",2025-07-06,2025-07-17,Uttar Pradesh,Noida,4,1311.81,153.66,1207.29,3.0
+OD00043,Wear Skincare,Beauty & Health,Skincare,Gay Group,2024-12-22,2025-07-11,Karnataka,Mysore,5,1154.05,295.27,1621.26,1.6
+OD00044,Agency Furniture,Home & Kitchen,Furniture,Everett-Graves,2025-02-07,2025-07-15,Delhi,New Delhi,1,6417.21,173.11,398.12,3.6
+OD00045,Know Skincare,Beauty & Health,Skincare,Nguyen-Boyd,2025-04-23,2025-07-11,Uttar Pradesh,Lucknow,1,718.62,135.46,117.37,1.5
+OD00046,Door Athletic Wear,Sports,Athletic Wear,"Andrews, Neal and Cox",2024-11-07,2025-07-16,Tamil Nadu,Coimbatore,2,5060.12,935.43,2157.13,1.0
+OD00047,Process Mobiles,Electronics,Mobiles,"Schultz, Hernandez and Porter",2024-07-16,2025-07-12,Uttar Pradesh,Noida,3,8769.86,2225.38,3199.06,3.9
+OD00048,Sell Laptops,Electronics,Laptops,"Jackson, Robinson and Williams",2024-10-23,2025-07-17,Maharashtra,Mumbai,5,6687.2,177.67,1707.03,2.5
+OD00049,Relationship Furniture,Home & Kitchen,Furniture,"Martinez, Rodriguez and Barnes",2025-02-01,2025-07-11,Uttar Pradesh,Lucknow,5,9587.3,1333.61,9351.2,3.8
+OD00050,History Fitness Equipment,Sports,Fitness Equipment,Wood Group,2024-10-20,2025-07-18,Delhi,New Delhi,5,8520.7,1387.35,8180.8,4.7
+OD00051,Perhaps Outdoor Sports,Sports,Outdoor Sports,Bender and Sons,2025-04-11,2025-07-16,West Bengal,Kolkata,2,1177.68,45.2,400.21,1.4
+OD00052,Station Women's Clothing,Fashion,Women's Clothing,Hinton and Sons,2024-09-07,2025-07-12,Delhi,New Delhi,2,8975.44,1820.29,961.96,4.6
+OD00053,Parent Furniture,Home & Kitchen,Furniture,Cooper-Johnson,2024-09-24,2025-07-20,Karnataka,Bangalore,2,561.93,82.63,198.08,2.7
+OD00054,Level Women's Clothing,Fashion,Women's Clothing,"Kirk, Jackson and Avila",2024-11-07,2025-07-11,West Bengal,Kolkata,1,7733.76,1785.93,1567.29,2.0
+OD00055,Mention Fitness Equipment,Sports,Fitness Equipment,Shepherd LLC,2024-11-02,2025-07-15,Delhi,New Delhi,4,2643.65,610.91,1592.04,1.4
+OD00056,Which Home Decor,Home & Kitchen,Home Decor,Huff-Sherman,2024-12-22,2025-07-15,Karnataka,Bangalore,4,6797.01,494.46,5766.75,2.1
+OD00057,Plan Outdoor Sports,Sports,Outdoor Sports,Miller Inc,2025-01-16,2025-07-14,West Bengal,Kolkata,1,5290.36,75.99,1141.99,4.6
+OD00058,Exactly Men's Clothing,Fashion,Men's Clothing,Daniels-Robinson,2025-06-19,2025-07-20,Delhi,New Delhi,5,5198.74,771.22,4993.92,3.1
+OD00059,Teacher Outdoor Sports,Sports,Outdoor Sports,"Peters, Green and Buchanan",2024-12-24,2025-07-19,Maharashtra,Pune,5,7192.84,1857.47,5688.6,3.8
+OD00060,Bank Healthcare,Beauty & Health,Healthcare,"Doyle, Douglas and Lopez",2024-10-18,2025-07-18,Maharashtra,Mumbai,3,2238.27,60.42,396.43,3.2
+OD00061,Other Athletic Wear,Sports,Athletic Wear,"Thomas, Orozco and Sharp",2025-06-13,2025-07-13,Delhi,New Delhi,2,4228.68,854.93,2160.41,4.1
+OD00062,Each Laptops,Electronics,Laptops,Ortiz-Nicholson,2024-09-12,2025-07-15,Delhi,New Delhi,4,4376.37,1081.55,2201.23,4.5
+OD00063,Tough Athletic Wear,Sports,Athletic Wear,Brown-Meadows,2024-11-01,2025-07-18,West Bengal,Kolkata,2,8926.78,1103.74,3764.18,3.8
+OD00064,Off Mobiles,Electronics,Mobiles,Diaz Ltd,2025-01-05,2025-07-13,Karnataka,Bangalore,3,1795.92,517.77,837.8,1.7
+OD00065,Anything Healthcare,Beauty & Health,Healthcare,"Martinez, Thompson and Dixon",2025-03-04,2025-07-13,Tamil Nadu,Coimbatore,4,1339.65,399.23,762.68,1.3
+OD00066,Half Mobiles,Electronics,Mobiles,Sparks-Jones,2025-03-24,2025-07-17,West Bengal,Kolkata,2,1903.51,333.59,320.75,3.2
+OD00067,Treat Laptops,Electronics,Laptops,"Austin, Ramirez and Gardner",2025-06-03,2025-07-16,Delhi,New Delhi,2,7366.54,872.64,1965.51,4.8
+OD00068,Appear Home Decor,Home & Kitchen,Home Decor,Combs Ltd,2025-03-01,2025-07-16,West Bengal,Kolkata,2,1908.56,224.98,685.8,3.0
+OD00069,Material Makeup,Beauty & Health,Makeup,"Lee, Bush and Smith",2024-10-22,2025-07-13,Maharashtra,Mumbai,5,2886.18,60.77,3656.05,3.8
+OD00070,On Mobiles,Electronics,Mobiles,"Fuller, Butler and Smith",2024-12-03,2025-07-17,West Bengal,Kolkata,4,9780.29,935.11,6674.19,3.4
+OD00071,Top Healthcare,Beauty & Health,Healthcare,Mcintyre Group,2025-02-23,2025-07-12,Delhi,New Delhi,5,6278.38,543.0,7467.98,2.7
+OD00072,Despite Home Decor,Home & Kitchen,Home Decor,Gomez Inc,2025-02-20,2025-07-18,Maharashtra,Mumbai,2,908.79,247.65,319.04,3.1
+OD00073,Effort Laptops,Electronics,Laptops,Mckee Ltd,2024-09-06,2025-07-14,Karnataka,Mysore,3,8223.46,920.33,3345.96,3.2
+OD00074,Management Fitness Equipment,Sports,Fitness Equipment,"Smith, Salazar and Smith",2025-01-05,2025-07-15,Uttar Pradesh,Lucknow,1,1532.13,189.65,222.25,4.1
+OD00075,Around Mobiles,Electronics,Mobiles,Bowen PLC,2024-12-24,2025-07-13,Maharashtra,Mumbai,4,3551.78,911.28,2288.01,3.3
+OD00076,Among Mobiles,Electronics,Mobiles,"Fisher, Beard and Arnold",2024-12-31,2025-07-11,Delhi,New Delhi,4,4531.28,679.07,3662.52,3.8
+OD00077,Finish Mobiles,Electronics,Mobiles,Green PLC,2025-04-09,2025-07-17,Delhi,New Delhi,5,7873.4,1659.77,6528.64,1.3
+OD00078,Specific Men's Clothing,Fashion,Men's Clothing,"Mckenzie, Dudley and Hayes",2024-07-15,2025-07-19,Tamil Nadu,Coimbatore,3,8212.36,1608.83,3555.05,3.6
+OD00079,Success Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Gay Inc,2024-09-01,2025-07-11,Delhi,New Delhi,3,2617.18,757.2,1729.15,2.0
+OD00080,Majority Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Salazar, Cruz and Gray",2025-04-10,2025-07-18,Delhi,New Delhi,3,7615.93,2237.14,5747.51,2.7
+OD00081,Area Tablets,Electronics,Tablets,"Young, Mcdonald and Hayden",2025-05-28,2025-07-15,Karnataka,Mysore,1,6209.62,750.36,435.84,4.6
+OD00082,Strategy Home Decor,Home & Kitchen,Home Decor,George and Sons,2024-11-09,2025-07-15,Tamil Nadu,Chennai,2,4638.56,1228.65,1377.04,2.2
+OD00083,Wide Fitness Equipment,Sports,Fitness Equipment,"Coleman, Duncan and Smith",2025-06-06,2025-07-13,Maharashtra,Mumbai,4,923.34,211.96,218.03,4.9
+OD00084,Explain Women's Clothing,Fashion,Women's Clothing,Nicholson and Sons,2024-07-24,2025-07-20,West Bengal,Kolkata,4,4766.33,996.95,4007.39,3.2
+OD00085,Clear Home Decor,Home & Kitchen,Home Decor,Reyes-Bradshaw,2025-05-14,2025-07-11,Uttar Pradesh,Noida,4,7577.33,290.8,2989.48,2.3
+OD00086,School Tablets,Electronics,Tablets,Day-Rasmussen,2025-05-27,2025-07-13,Maharashtra,Mumbai,4,2341.22,169.45,2643.72,2.0
+OD00087,Loss Women's Clothing,Fashion,Women's Clothing,"Walker, Anderson and Herrera",2025-02-23,2025-07-11,Delhi,New Delhi,3,8084.89,1215.18,5387.14,1.1
+OD00088,Everything Men's Clothing,Fashion,Men's Clothing,"Campbell, Carpenter and Ferguson",2024-10-20,2025-07-13,Maharashtra,Pune,4,1927.39,288.46,1618.6,3.4
+OD00089,Particularly Men's Clothing,Fashion,Men's Clothing,Lewis-Paul,2025-04-27,2025-07-13,Delhi,New Delhi,4,2353.54,93.91,1709.05,1.1
+OD00090,Various Tablets,Electronics,Tablets,"Evans, Johnson and Cox",2024-12-23,2025-07-14,Tamil Nadu,Coimbatore,4,8025.13,1431.54,5381.43,2.2
+OD00091,Though Home Decor,Home & Kitchen,Home Decor,Andrews-Sanders,2024-07-12,2025-07-19,Karnataka,Bangalore,3,5559.8,1621.29,2515.24,2.8
+OD00092,Interesting Outdoor Sports,Sports,Outdoor Sports,Burton-Cannon,2025-01-30,2025-07-13,Karnataka,Bangalore,5,7794.02,673.17,5945.07,4.9
+OD00093,Toward Women's Clothing,Fashion,Women's Clothing,"Banks, George and Kim",2024-12-28,2025-07-20,Maharashtra,Mumbai,4,9377.09,765.91,7899.81,3.1
+OD00094,The Women's Clothing,Fashion,Women's Clothing,Roberts-Yu,2025-03-20,2025-07-12,Tamil Nadu,Coimbatore,2,2879.28,119.98,1570.24,4.5
+OD00095,Hope Home Decor,Home & Kitchen,Home Decor,"Holmes, Hoffman and Brown",2025-07-03,2025-07-17,Karnataka,Mysore,1,1946.14,127.36,433.23,2.9
+OD00096,Take Tablets,Electronics,Tablets,"Vincent, Bender and Ball",2025-01-06,2025-07-17,Uttar Pradesh,Noida,3,1192.94,187.27,913.41,1.2
+OD00097,Special Laptops,Electronics,Laptops,"Patterson, Lowe and Vazquez",2025-06-11,2025-07-12,Karnataka,Mysore,2,1018.51,109.16,289.43,2.1
+OD00098,Between Healthcare,Beauty & Health,Healthcare,"Christensen, Robinson and Phelps",2025-04-19,2025-07-11,Tamil Nadu,Coimbatore,3,6558.74,1410.3,4371.53,2.2
+OD00099,President Furniture,Home & Kitchen,Furniture,Greene-Ward,2025-05-24,2025-07-12,Delhi,New Delhi,1,5486.33,996.49,1159.26,1.6
+OD00100,Somebody Women's Clothing,Fashion,Women's Clothing,"Cervantes, Richardson and Thompson",2025-05-08,2025-07-11,Maharashtra,Mumbai,3,8644.07,2304.74,6451.21,2.0
+OD00101,Politics Women's Clothing,Fashion,Women's Clothing,Daniel-Mendoza,2025-01-25,2025-07-19,Tamil Nadu,Coimbatore,4,8651.3,1416.29,3671.66,1.3
+OD00102,Conference Men's Clothing,Fashion,Men's Clothing,"Brown, Franco and Terrell",2025-06-24,2025-07-16,Maharashtra,Mumbai,1,2284.48,467.75,244.65,4.5
+OD00103,Father Home Decor,Home & Kitchen,Home Decor,Clark LLC,2024-10-17,2025-07-18,Karnataka,Bangalore,3,4369.36,413.13,1486.06,4.0
+OD00104,Government Mobiles,Electronics,Mobiles,Herrera-Cross,2024-07-31,2025-07-11,Uttar Pradesh,Noida,1,245.84,18.81,33.87,2.2
+OD00105,Past Men's Clothing,Fashion,Men's Clothing,Mooney-Wright,2024-08-21,2025-07-18,West Bengal,Kolkata,3,267.64,18.96,52.62,2.3
+OD00106,Able Mobiles,Electronics,Mobiles,Evans-Lee,2025-04-23,2025-07-16,Delhi,New Delhi,3,516.82,151.72,290.75,3.8
+OD00107,At Healthcare,Beauty & Health,Healthcare,"Adams, Anderson and Hall",2025-05-28,2025-07-18,Karnataka,Bangalore,1,4751.03,1189.16,275.19,3.3
+OD00108,Important Footwear,Fashion,Footwear,"Kennedy, Payne and Edwards",2024-11-24,2025-07-15,Karnataka,Mysore,1,6909.26,1849.25,1213.8,2.1
+OD00109,Check Furniture,Home & Kitchen,Furniture,Ibarra-Peck,2024-07-11,2025-07-20,Delhi,New Delhi,3,9597.6,2772.37,3539.09,4.0
+OD00110,Computer Laptops,Electronics,Laptops,Mccall-Cordova,2024-10-18,2025-07-18,Maharashtra,Pune,2,5014.3,138.23,2602.75,2.7
+OD00111,Admit Mobiles,Electronics,Mobiles,Bullock-Villarreal,2025-02-03,2025-07-13,Maharashtra,Pune,2,7039.24,845.98,1056.1,3.0
+OD00112,Different Men's Clothing,Fashion,Men's Clothing,Morgan-Hernandez,2025-01-18,2025-07-17,Karnataka,Bangalore,1,8513.75,57.94,876.34,4.5
+OD00113,Brother Fitness Equipment,Sports,Fitness Equipment,Jones PLC,2024-12-29,2025-07-14,Delhi,New Delhi,2,933.71,153.66,212.97,3.8
+OD00114,Without Mobiles,Electronics,Mobiles,"Oliver, Stanley and Osborne",2024-08-12,2025-07-19,Delhi,New Delhi,4,969.84,13.68,1041.5,4.5
+OD00115,Scientist Tablets,Electronics,Tablets,Jones Inc,2024-11-14,2025-07-12,West Bengal,Kolkata,5,2556.92,627.96,3180.21,2.5
+OD00116,Test Laptops,Electronics,Laptops,Frye-Perez,2024-10-27,2025-07-17,West Bengal,Kolkata,2,7601.9,731.23,1877.33,4.8
+OD00117,Positive Mobiles,Electronics,Mobiles,"Cox, May and Kennedy",2025-04-20,2025-07-17,West Bengal,Kolkata,4,4212.32,1240.37,3020.86,1.6
+OD00118,Serious Makeup,Beauty & Health,Makeup,"Watson, Sanders and Brown",2024-12-12,2025-07-19,West Bengal,Kolkata,4,7324.62,1664.7,4889.23,4.0
+OD00119,Pretty Athletic Wear,Sports,Athletic Wear,"Wood, Stevenson and Baldwin",2025-01-16,2025-07-20,West Bengal,Kolkata,5,8994.92,2639.08,4479.01,1.7
+OD00120,Order Furniture,Home & Kitchen,Furniture,Cox-Mcguire,2024-07-28,2025-07-11,West Bengal,Kolkata,3,6503.55,1282.67,2251.27,3.0
+OD00121,Western Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Wright-Frazier,2024-12-15,2025-07-17,West Bengal,Kolkata,5,7825.98,190.17,6437.33,3.8
+OD00122,More Women's Clothing,Fashion,Women's Clothing,Rodriguez-Mueller,2025-04-08,2025-07-20,Uttar Pradesh,Noida,5,1476.75,190.03,368.67,3.6
+OD00123,Beautiful Men's Clothing,Fashion,Men's Clothing,Avila and Sons,2025-06-07,2025-07-15,Tamil Nadu,Coimbatore,1,3555.88,330.51,263.89,4.1
+OD00124,Raise Footwear,Fashion,Footwear,"Boone, Mcdowell and Reilly",2025-07-03,2025-07-20,West Bengal,Kolkata,5,6585.73,581.89,5654.14,3.3
+OD00125,Performance Laptops,Electronics,Laptops,Ochoa LLC,2025-04-16,2025-07-20,Maharashtra,Mumbai,5,8693.33,2236.83,5755.55,2.7
+OD00126,On Home Decor,Home & Kitchen,Home Decor,Sanders-Clark,2024-09-10,2025-07-20,Uttar Pradesh,Lucknow,4,2974.89,34.46,2344.47,2.6
+OD00127,Those Men's Clothing,Fashion,Men's Clothing,"Frye, Gilbert and Brown",2024-12-15,2025-07-16,Karnataka,Bangalore,2,2964.04,160.08,690.3,3.1
+OD00128,Eye Mobiles,Electronics,Mobiles,Fernandez LLC,2024-08-17,2025-07-11,Uttar Pradesh,Noida,4,6780.56,1542.88,3540.38,2.5
+OD00129,Lot Healthcare,Beauty & Health,Healthcare,"Brown, Reyes and Rodriguez",2024-09-25,2025-07-19,Uttar Pradesh,Lucknow,2,6460.89,1750.18,3092.51,1.6
+OD00130,Use Fitness Equipment,Sports,Fitness Equipment,Morton Ltd,2025-02-26,2025-07-18,Uttar Pradesh,Noida,4,5249.82,980.11,5363.02,1.1
+OD00131,Relationship Athletic Wear,Sports,Athletic Wear,May LLC,2025-04-13,2025-07-14,West Bengal,Kolkata,2,172.63,39.45,16.31,1.4
+OD00132,Center Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Nelson, Williams and Tucker",2025-04-04,2025-07-20,Karnataka,Mysore,3,8485.45,295.19,6885.57,4.2
+OD00133,Moment Laptops,Electronics,Laptops,Craig Inc,2025-05-29,2025-07-20,Delhi,New Delhi,3,5437.7,1224.6,2042.47,3.8
+OD00134,Hold Fitness Equipment,Sports,Fitness Equipment,Mullins-Carr,2024-12-15,2025-07-11,Maharashtra,Pune,5,8939.87,1972.82,11827.44,2.9
+OD00135,Gas Footwear,Fashion,Footwear,Hudson-Mcclure,2025-02-14,2025-07-16,Maharashtra,Pune,5,5576.7,950.84,2483.19,4.0
+OD00136,Data Tablets,Electronics,Tablets,Richards-Lloyd,2024-11-15,2025-07-18,Uttar Pradesh,Noida,1,9633.35,734.03,2163.95,4.0
+OD00137,Price Home Decor,Home & Kitchen,Home Decor,Wiggins LLC,2025-03-15,2025-07-19,Tamil Nadu,Chennai,2,6875.84,943.28,1780.86,3.0
+OD00138,Rate Tablets,Electronics,Tablets,Fernandez-Williams,2024-09-11,2025-07-17,Tamil Nadu,Chennai,2,6229.96,562.32,2030.92,4.9
+OD00139,Animal Outdoor Sports,Sports,Outdoor Sports,Bishop-Chang,2024-08-26,2025-07-17,West Bengal,Kolkata,4,8399.97,804.19,6932.79,2.8
+OD00140,Low Footwear,Fashion,Footwear,"Murphy, Miller and Mcclure",2024-12-30,2025-07-14,Tamil Nadu,Chennai,2,4039.42,130.15,813.94,2.0
+OD00141,Pass Fitness Equipment,Sports,Fitness Equipment,"Berry, Solis and Bowman",2025-03-23,2025-07-20,Uttar Pradesh,Noida,2,4201.91,796.91,1152.05,4.5
+OD00142,Be Men's Clothing,Fashion,Men's Clothing,Pineda and Sons,2024-08-23,2025-07-13,Delhi,New Delhi,4,3835.83,1110.09,923.49,4.0
+OD00143,Lay Women's Clothing,Fashion,Women's Clothing,Mercado Ltd,2024-11-28,2025-07-13,West Bengal,Kolkata,2,8620.54,1705.0,3388.08,1.9
+OD00144,Style Athletic Wear,Sports,Athletic Wear,Benton Ltd,2024-09-02,2025-07-18,Tamil Nadu,Coimbatore,3,2548.45,691.43,1765.24,3.9
+OD00145,Prevent Fitness Equipment,Sports,Fitness Equipment,Craig-Bartlett,2024-07-15,2025-07-15,Uttar Pradesh,Noida,5,7335.75,447.33,3176.3,1.1
+OD00146,Apply Furniture,Home & Kitchen,Furniture,"Wilson, White and Webb",2024-12-16,2025-07-13,Tamil Nadu,Coimbatore,2,6778.59,989.15,2490.46,2.6
+OD00147,Born Outdoor Sports,Sports,Outdoor Sports,Jones-Sullivan,2024-08-26,2025-07-15,Tamil Nadu,Coimbatore,2,633.07,93.23,293.04,3.9
+OD00148,Win Home Decor,Home & Kitchen,Home Decor,Downs PLC,2024-10-22,2025-07-16,Tamil Nadu,Coimbatore,3,3700.37,525.57,2168.59,2.4
+OD00149,Fight Tablets,Electronics,Tablets,Berg and Sons,2024-09-22,2025-07-12,West Bengal,Kolkata,5,2592.69,500.06,3346.19,2.9
+OD00150,Decade Outdoor Sports,Sports,Outdoor Sports,Fernandez and Sons,2024-11-17,2025-07-14,Maharashtra,Pune,3,334.83,81.63,234.76,1.7
+OD00151,Above Skincare,Beauty & Health,Skincare,"Johnson, Robinson and Armstrong",2024-09-28,2025-07-13,Delhi,New Delhi,1,8442.71,1105.55,722.09,2.8
+OD00152,Data Home Decor,Home & Kitchen,Home Decor,"White, Marquez and Knight",2025-05-01,2025-07-16,Delhi,New Delhi,1,1467.12,121.58,327.25,2.3
+OD00153,Fight Outdoor Sports,Sports,Outdoor Sports,Wells Ltd,2024-07-18,2025-07-16,Uttar Pradesh,Lucknow,1,5480.19,221.5,481.38,1.7
+OD00154,Religious Home Decor,Home & Kitchen,Home Decor,"Hall, Rodriguez and Ramirez",2024-12-31,2025-07-17,Karnataka,Bangalore,2,3034.49,740.2,279.49,4.4
+OD00155,Bank Makeup,Beauty & Health,Makeup,"Lane, Welch and Shields",2025-04-13,2025-07-12,West Bengal,Kolkata,1,5961.31,1601.36,1208.01,3.1
+OD00156,Among Fitness Equipment,Sports,Fitness Equipment,Dominguez-Munoz,2024-09-12,2025-07-19,Delhi,New Delhi,2,8043.93,1980.03,999.18,2.5
+OD00157,Eye Skincare,Beauty & Health,Skincare,Hart and Sons,2025-04-05,2025-07-13,Uttar Pradesh,Noida,4,8778.63,1419.38,4044.54,4.1
+OD00158,Pass Men's Clothing,Fashion,Men's Clothing,"Cross, Wagner and Zuniga",2025-06-01,2025-07-20,Karnataka,Mysore,2,6249.38,670.44,2056.8,3.2
+OD00159,Student Healthcare,Beauty & Health,Healthcare,Richards-Henry,2024-09-04,2025-07-14,Maharashtra,Mumbai,3,1999.37,63.12,525.96,3.6
+OD00160,Forward Laptops,Electronics,Laptops,Parker Ltd,2025-03-29,2025-07-12,Delhi,New Delhi,4,4789.92,753.78,5430.17,4.7
+OD00161,Certainly Skincare,Beauty & Health,Skincare,Jimenez-Fuller,2024-10-11,2025-07-17,West Bengal,Kolkata,2,4495.75,1215.61,2137.18,2.4
+OD00162,Song Tablets,Electronics,Tablets,"Lane, Randall and Bowman",2024-08-01,2025-07-13,Delhi,New Delhi,1,8793.07,2609.33,904.37,1.9
+OD00163,Letter Laptops,Electronics,Laptops,Silva-Brooks,2024-07-31,2025-07-16,Maharashtra,Mumbai,3,8894.87,636.13,7623.19,1.8
+OD00164,Check Healthcare,Beauty & Health,Healthcare,"Foster, Bennett and Edwards",2025-03-13,2025-07-18,Maharashtra,Pune,5,2917.05,350.17,791.86,2.4
+OD00165,Move Tablets,Electronics,Tablets,"Jordan, Durham and Brown",2025-03-01,2025-07-12,West Bengal,Kolkata,4,6965.02,356.01,7845.61,2.8
+OD00166,Why Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Miller LLC,2025-06-24,2025-07-12,Uttar Pradesh,Lucknow,2,9490.53,2109.74,4978.47,2.6
+OD00167,Off Home Decor,Home & Kitchen,Home Decor,"Armstrong, Hernandez and Alvarado",2024-08-01,2025-07-13,Delhi,New Delhi,2,3852.35,831.46,819.76,4.4
+OD00168,Itself Home Decor,Home & Kitchen,Home Decor,Beard-Lopez,2025-02-19,2025-07-14,Delhi,New Delhi,3,9564.24,385.93,8306.41,3.3
+OD00169,Protect Makeup,Beauty & Health,Makeup,Lopez-May,2025-02-19,2025-07-19,Uttar Pradesh,Noida,2,8768.94,2265.48,1104.47,1.8
+OD00170,Explain Home Decor,Home & Kitchen,Home Decor,"Alvarez, Green and English",2024-07-23,2025-07-11,Delhi,New Delhi,1,1458.29,207.0,247.79,1.8
+OD00171,Position Fitness Equipment,Sports,Fitness Equipment,Austin LLC,2025-06-28,2025-07-12,Maharashtra,Pune,4,4868.8,593.25,2620.89,4.9
+OD00172,Family Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Moore, Sutton and Butler",2025-04-03,2025-07-13,Uttar Pradesh,Lucknow,2,6796.76,256.97,3714.39,3.2
+OD00173,My Makeup,Beauty & Health,Makeup,Coleman-Evans,2024-07-15,2025-07-18,Tamil Nadu,Coimbatore,2,5026.0,1428.23,2058.96,4.0
+OD00174,Line Laptops,Electronics,Laptops,Arnold-Reid,2024-11-28,2025-07-17,Karnataka,Bangalore,5,1410.26,264.42,1593.29,1.4
+OD00175,Action Makeup,Beauty & Health,Makeup,Wilson-Luna,2024-08-06,2025-07-20,Karnataka,Mysore,2,6351.69,1666.07,870.53,1.5
+OD00176,Act Mobiles,Electronics,Mobiles,Singh-Sandoval,2025-01-14,2025-07-14,Tamil Nadu,Chennai,4,155.07,29.65,56.73,1.4
+OD00177,Red Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Ellis, Johnson and Ferguson",2024-12-08,2025-07-12,Uttar Pradesh,Lucknow,5,4670.09,817.4,1553.01,2.4
+OD00178,Laugh Skincare,Beauty & Health,Skincare,"Harris, Watkins and Jensen",2025-02-17,2025-07-17,West Bengal,Kolkata,3,1068.89,75.52,316.92,3.0
+OD00179,Smile Men's Clothing,Fashion,Men's Clothing,"Holmes, Gonzales and Bauer",2025-07-10,2025-07-18,Maharashtra,Pune,2,6420.7,1501.67,836.58,4.3
+OD00180,Successful Tablets,Electronics,Tablets,"Anthony, Huff and Dean",2025-06-29,2025-07-15,Maharashtra,Pune,2,8976.97,1850.98,2313.96,3.8
+OD00181,Land Men's Clothing,Fashion,Men's Clothing,Moore-Whitney,2025-06-13,2025-07-12,Maharashtra,Pune,3,1635.53,438.26,507.13,3.8
+OD00182,Table Mobiles,Electronics,Mobiles,"Ball, Allen and Choi",2024-12-06,2025-07-12,Uttar Pradesh,Noida,1,2009.91,202.79,457.68,3.6
+OD00183,Half Makeup,Beauty & Health,Makeup,Shields Group,2025-01-03,2025-07-12,West Bengal,Kolkata,3,694.18,109.84,262.21,3.4
+OD00184,Rate Skincare,Beauty & Health,Skincare,Jones-Jones,2024-10-11,2025-07-20,Maharashtra,Mumbai,2,1953.19,510.02,593.22,1.2
+OD00185,Sell Home Decor,Home & Kitchen,Home Decor,Vega and Sons,2024-12-26,2025-07-17,Maharashtra,Pune,3,9995.31,840.37,5578.32,4.9
+OD00186,Huge Makeup,Beauty & Health,Makeup,Medina-Sims,2025-07-08,2025-07-13,Tamil Nadu,Coimbatore,1,5165.09,1001.83,1063.59,1.5
+OD00187,Difficult Mobiles,Electronics,Mobiles,"Andersen, Whitaker and Martinez",2024-10-15,2025-07-13,Uttar Pradesh,Noida,1,2172.17,49.12,590.88,1.7
+OD00188,Despite Women's Clothing,Fashion,Women's Clothing,Taylor-Robinson,2025-05-01,2025-07-17,Uttar Pradesh,Lucknow,2,7443.31,1176.43,3183.27,1.7
+OD00189,Anyone Tablets,Electronics,Tablets,Boyd-Mcbride,2025-02-11,2025-07-11,Maharashtra,Pune,2,5834.93,99.97,3404.26,3.6
+OD00190,Feeling Furniture,Home & Kitchen,Furniture,Perez PLC,2025-05-19,2025-07-20,Uttar Pradesh,Lucknow,5,2218.93,291.2,637.98,2.7
+OD00191,North Women's Clothing,Fashion,Women's Clothing,Gomez and Sons,2025-03-31,2025-07-15,Delhi,New Delhi,5,2669.72,219.51,1425.15,2.3
+OD00192,Toward Laptops,Electronics,Laptops,Hughes-Burgess,2025-02-28,2025-07-12,Uttar Pradesh,Noida,1,141.09,13.56,6.82,2.6
+OD00193,You Fitness Equipment,Sports,Fitness Equipment,Dunlap-Caldwell,2025-06-07,2025-07-20,Tamil Nadu,Coimbatore,4,5270.76,1312.37,4433.32,3.9
+OD00194,Modern Men's Clothing,Fashion,Men's Clothing,"Vega, Hall and Fuentes",2025-04-21,2025-07-16,Uttar Pradesh,Lucknow,1,6515.62,866.12,1314.58,4.2
+OD00195,Line Laptops,Electronics,Laptops,Cohen Inc,2024-09-15,2025-07-18,West Bengal,Kolkata,1,8223.07,2444.29,1057.24,2.8
+OD00196,Strong Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Ayala-Jackson,2024-12-09,2025-07-18,West Bengal,Kolkata,2,3569.09,294.87,355.92,1.1
+OD00197,Bed Footwear,Fashion,Footwear,Patel PLC,2024-07-24,2025-07-13,Uttar Pradesh,Noida,3,4807.93,380.1,718.82,4.9
+OD00198,Director Furniture,Home & Kitchen,Furniture,Miller and Sons,2025-07-01,2025-07-16,West Bengal,Kolkata,4,6791.78,1662.33,7014.52,4.8
+OD00199,Reduce Men's Clothing,Fashion,Men's Clothing,"Ramos, Cox and Johnson",2025-01-02,2025-07-19,Tamil Nadu,Chennai,1,2581.63,123.94,720.63,5.0
+OD00200,Account Men's Clothing,Fashion,Men's Clothing,Pittman-Moore,2024-10-28,2025-07-19,Delhi,New Delhi,5,377.2,76.75,446.78,3.9
+OD00201,Television Makeup,Beauty & Health,Makeup,"Gray, Delacruz and Pope",2025-06-17,2025-07-17,Karnataka,Mysore,1,4459.06,1169.2,272.06,3.7
+OD00202,Less Skincare,Beauty & Health,Skincare,Merritt-Jones,2025-04-11,2025-07-15,West Bengal,Kolkata,1,7645.88,1137.74,374.73,3.5
+OD00203,Wear Women's Clothing,Fashion,Women's Clothing,White Inc,2025-06-25,2025-07-12,Maharashtra,Mumbai,1,4399.02,258.27,743.93,2.0
+OD00204,Rich Skincare,Beauty & Health,Skincare,Smith and Sons,2024-11-15,2025-07-16,Uttar Pradesh,Noida,3,4318.88,374.03,952.44,2.0
+OD00205,Year Outdoor Sports,Sports,Outdoor Sports,"Charles, Richardson and Obrien",2025-05-31,2025-07-12,Uttar Pradesh,Noida,2,6214.89,221.99,1959.05,2.5
+OD00206,Carry Tablets,Electronics,Tablets,Burke-Smith,2024-07-29,2025-07-18,Maharashtra,Mumbai,1,4469.74,319.82,934.94,4.6
+OD00207,Receive Women's Clothing,Fashion,Women's Clothing,"Bennett, Coleman and Arnold",2025-04-14,2025-07-20,West Bengal,Kolkata,4,6723.47,1821.32,5271.61,3.1
+OD00208,Remember Footwear,Fashion,Footwear,"Gomez, Shepherd and Holmes",2025-05-09,2025-07-19,Karnataka,Mysore,3,6483.92,580.04,1095.48,1.6
+OD00209,Seat Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Harris Ltd,2024-09-22,2025-07-19,Tamil Nadu,Chennai,3,7351.83,995.63,1633.84,2.7
+OD00210,Leader Healthcare,Beauty & Health,Healthcare,"Gross, Larson and Morales",2025-05-27,2025-07-20,Tamil Nadu,Coimbatore,4,6258.25,1547.66,4924.8,1.3
+OD00211,Agree Mobiles,Electronics,Mobiles,Brown Ltd,2025-07-07,2025-07-12,Delhi,New Delhi,3,7430.44,725.08,6335.04,4.7
+OD00212,Compare Tablets,Electronics,Tablets,Quinn-Williams,2025-05-26,2025-07-14,Delhi,New Delhi,3,4043.85,556.62,1424.05,3.6
+OD00213,Add Footwear,Fashion,Footwear,"Erickson, Davidson and Hunt",2025-05-15,2025-07-15,Delhi,New Delhi,2,8587.36,1660.48,3106.19,2.1
+OD00214,Stay Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Gonzalez and Sons,2025-05-03,2025-07-12,Tamil Nadu,Chennai,3,6505.48,218.56,2965.54,1.8
+OD00215,Think Home Decor,Home & Kitchen,Home Decor,Jones-Hunt,2024-10-27,2025-07-16,Uttar Pradesh,Noida,4,4414.32,1010.39,4497.85,4.1
+OD00216,Some Skincare,Beauty & Health,Skincare,"Jensen, Tapia and Nguyen",2025-05-02,2025-07-15,Delhi,New Delhi,2,3459.22,781.41,1758.69,4.1
+OD00217,Rest Footwear,Fashion,Footwear,Small LLC,2024-12-11,2025-07-11,Karnataka,Bangalore,3,3472.04,533.65,2866.47,4.8
+OD00218,Sister Healthcare,Beauty & Health,Healthcare,Boyd Ltd,2025-01-14,2025-07-20,Tamil Nadu,Coimbatore,4,7943.77,2314.7,4259.62,4.2
+OD00219,Person Home Decor,Home & Kitchen,Home Decor,"Gonzalez, Shaffer and James",2025-03-16,2025-07-17,Maharashtra,Mumbai,4,6539.36,1053.7,5741.25,1.3
+OD00220,Sing Mobiles,Electronics,Mobiles,Sanders Ltd,2024-12-18,2025-07-20,Delhi,New Delhi,1,3356.09,976.56,392.92,4.1
+OD00221,Head Home Decor,Home & Kitchen,Home Decor,"Jones, Khan and Mason",2025-03-01,2025-07-17,Maharashtra,Pune,2,8613.53,2251.87,2992.07,2.8
+OD00222,Occur Footwear,Fashion,Footwear,Meyer PLC,2025-06-28,2025-07-16,Maharashtra,Pune,5,8216.84,247.04,10692.46,4.5
+OD00223,Prepare Footwear,Fashion,Footwear,"Navarro, Willis and Hunt",2024-08-16,2025-07-20,Maharashtra,Pune,3,1772.2,33.55,1519.99,2.4
+OD00224,Father Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Pugh-Mack,2024-07-16,2025-07-18,Uttar Pradesh,Lucknow,5,5068.15,1086.95,2550.89,4.3
+OD00225,Usually Healthcare,Beauty & Health,Healthcare,"Richard, Washington and Vega",2025-04-14,2025-07-13,West Bengal,Kolkata,3,6228.27,1642.99,3250.15,4.7
+OD00226,Whole Fitness Equipment,Sports,Fitness Equipment,"Riley, Figueroa and Graves",2024-11-04,2025-07-11,Uttar Pradesh,Lucknow,4,4587.89,386.12,3009.1,2.8
+OD00227,Senior Tablets,Electronics,Tablets,Ruiz Ltd,2024-11-21,2025-07-12,West Bengal,Kolkata,3,8539.35,866.85,6403.84,5.0
+OD00228,Find Home Decor,Home & Kitchen,Home Decor,"Ramirez, Perez and Cameron",2024-09-26,2025-07-18,West Bengal,Kolkata,2,9284.92,70.38,2417.28,1.1
+OD00229,Film Men's Clothing,Fashion,Men's Clothing,Diaz-Robertson,2025-05-11,2025-07-19,Maharashtra,Pune,1,5327.16,761.42,606.54,2.0
+OD00230,Partner Furniture,Home & Kitchen,Furniture,Pena-Aguirre,2025-01-27,2025-07-12,Uttar Pradesh,Lucknow,3,740.42,87.63,493.08,2.0
+OD00231,Develop Outdoor Sports,Sports,Outdoor Sports,Hoover-Larsen,2025-03-26,2025-07-16,Tamil Nadu,Chennai,2,5642.55,1394.79,2843.77,4.3
+OD00232,Animal Women's Clothing,Fashion,Women's Clothing,Silva and Sons,2024-09-29,2025-07-20,West Bengal,Kolkata,3,5044.0,176.32,3581.23,1.6
+OD00233,Their Tablets,Electronics,Tablets,"Richards, Reeves and Perez",2025-03-28,2025-07-19,Karnataka,Mysore,3,2179.42,577.1,1222.04,5.0
+OD00234,Born Mobiles,Electronics,Mobiles,Martinez-Mckenzie,2024-12-19,2025-07-11,Uttar Pradesh,Lucknow,2,3484.43,40.67,716.58,3.5
+OD00235,Voice Furniture,Home & Kitchen,Furniture,Cooper-Alvarado,2025-03-20,2025-07-13,Tamil Nadu,Chennai,4,2615.41,706.12,1640.52,3.6
+OD00236,Adult Tablets,Electronics,Tablets,Stewart and Sons,2025-06-05,2025-07-18,Delhi,New Delhi,1,8945.43,2578.1,1533.58,1.9
+OD00237,Newspaper Laptops,Electronics,Laptops,Nguyen-Walker,2025-06-18,2025-07-17,Uttar Pradesh,Lucknow,1,4264.22,15.6,1133.37,1.3
+OD00238,Need Athletic Wear,Sports,Athletic Wear,Glenn Ltd,2025-01-24,2025-07-20,Karnataka,Bangalore,1,1404.48,351.46,237.32,4.5
+OD00239,Doctor Furniture,Home & Kitchen,Furniture,"Phillips, Morris and Avery",2024-12-06,2025-07-18,Maharashtra,Mumbai,3,6270.77,549.05,2159.55,1.6
+OD00240,Laugh Laptops,Electronics,Laptops,Skinner Ltd,2025-01-31,2025-07-13,Uttar Pradesh,Noida,3,9563.88,2229.25,2179.23,2.3
+OD00241,Record Women's Clothing,Fashion,Women's Clothing,"Gross, Kelly and Hughes",2025-02-27,2025-07-18,Tamil Nadu,Chennai,2,6108.06,572.19,3185.71,3.9
+OD00242,Region Fitness Equipment,Sports,Fitness Equipment,"Davis, Howard and Graham",2024-12-10,2025-07-12,West Bengal,Kolkata,4,3920.08,1078.27,3010.4,3.0
+OD00243,Model Skincare,Beauty & Health,Skincare,Stevens and Sons,2024-08-22,2025-07-13,Maharashtra,Mumbai,2,1137.78,2.0,387.32,3.4
+OD00244,Tv Women's Clothing,Fashion,Women's Clothing,"Stanley, Hobbs and Guerra",2024-09-25,2025-07-17,Maharashtra,Mumbai,5,9438.13,2206.73,6766.17,1.5
+OD00245,Play Home Decor,Home & Kitchen,Home Decor,Waters-Clay,2024-12-18,2025-07-20,Tamil Nadu,Chennai,5,8743.26,825.12,9998.93,3.5
+OD00246,Its Footwear,Fashion,Footwear,Woods and Sons,2024-08-11,2025-07-17,Karnataka,Bangalore,4,200.69,41.05,188.28,5.0
+OD00247,Range Men's Clothing,Fashion,Men's Clothing,"Krause, Davis and Jones",2024-08-07,2025-07-20,Maharashtra,Mumbai,3,9667.59,2402.21,1574.08,4.3
+OD00248,Beat Furniture,Home & Kitchen,Furniture,Martinez-Smith,2024-08-30,2025-07-16,Tamil Nadu,Chennai,4,5804.81,241.53,3413.58,2.5
+OD00249,Girl Healthcare,Beauty & Health,Healthcare,"Wilkins, Boyd and Castillo",2024-11-02,2025-07-20,Karnataka,Mysore,3,8129.57,507.67,5031.84,2.6
+OD00250,Response Skincare,Beauty & Health,Skincare,Washington PLC,2024-08-16,2025-07-18,Karnataka,Mysore,1,5504.86,8.26,1287.46,3.2
+OD00251,Whose Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Perez, Murphy and Wilson",2024-11-26,2025-07-15,Tamil Nadu,Coimbatore,4,4458.09,411.7,2438.11,2.0
+OD00252,Young Makeup,Beauty & Health,Makeup,Shaw-Russell,2025-07-10,2025-07-13,Tamil Nadu,Chennai,5,3374.0,1011.81,1901.41,1.4
+OD00253,There Home Decor,Home & Kitchen,Home Decor,"Ortiz, Gonzalez and Morales",2025-05-19,2025-07-17,Karnataka,Bangalore,4,8322.93,971.53,2064.52,1.8
+OD00254,Forget Skincare,Beauty & Health,Skincare,"Diaz, Espinoza and Harris",2025-07-10,2025-07-20,Delhi,New Delhi,2,3256.93,537.95,1307.05,3.4
+OD00255,Collection Laptops,Electronics,Laptops,Payne-Johnson,2025-02-01,2025-07-17,West Bengal,Kolkata,3,3674.31,951.93,1700.64,3.4
+OD00256,Great Skincare,Beauty & Health,Skincare,Browning-Watson,2025-01-30,2025-07-17,Uttar Pradesh,Lucknow,2,3491.38,225.11,1014.97,2.4
+OD00257,Treat Makeup,Beauty & Health,Makeup,Hughes-Gibbs,2024-07-11,2025-07-14,Karnataka,Bangalore,5,8179.15,1865.56,8059.98,3.4
+OD00258,President Men's Clothing,Fashion,Men's Clothing,Gutierrez-Huff,2025-02-10,2025-07-15,Delhi,New Delhi,1,4893.97,854.61,432.56,2.7
+OD00259,Summer Men's Clothing,Fashion,Men's Clothing,Moss PLC,2025-01-06,2025-07-19,Maharashtra,Pune,4,3781.72,252.17,3769.9,1.7
+OD00260,Control Laptops,Electronics,Laptops,Levine LLC,2024-08-14,2025-07-12,Maharashtra,Mumbai,4,1259.24,88.01,1177.0,3.5
+OD00261,Help Home Decor,Home & Kitchen,Home Decor,"Hanna, Wallace and Vazquez",2025-01-20,2025-07-19,Karnataka,Mysore,3,8014.98,1472.11,1924.3,4.4
+OD00262,Themselves Makeup,Beauty & Health,Makeup,"Smith, Ramos and Harrison",2025-05-23,2025-07-20,Karnataka,Mysore,3,3098.41,515.63,758.52,1.4
+OD00263,True Athletic Wear,Sports,Athletic Wear,Johnson-Gilbert,2025-07-04,2025-07-20,Uttar Pradesh,Lucknow,1,5157.78,974.63,1015.65,3.6
+OD00264,Ability Outdoor Sports,Sports,Outdoor Sports,Mendoza-Ramos,2024-12-23,2025-07-12,Delhi,New Delhi,5,2916.55,751.65,3702.44,3.0
+OD00265,Moment Laptops,Electronics,Laptops,Smith-Perez,2025-01-29,2025-07-17,Karnataka,Mysore,1,8000.06,843.02,540.83,3.5
+OD00266,Three Furniture,Home & Kitchen,Furniture,Holland-Jones,2025-05-15,2025-07-17,Tamil Nadu,Coimbatore,4,7348.92,1345.26,7872.42,2.2
+OD00267,Tree Tablets,Electronics,Tablets,Bowen-Watkins,2024-08-15,2025-07-14,Karnataka,Mysore,5,7212.91,447.49,6483.15,4.5
+OD00268,Return Footwear,Fashion,Footwear,Gross-Martin,2025-06-08,2025-07-20,Tamil Nadu,Chennai,5,6260.13,502.87,3119.99,4.2
+OD00269,Television Athletic Wear,Sports,Athletic Wear,Page-Hall,2025-06-14,2025-07-16,Tamil Nadu,Chennai,2,2444.51,607.43,411.05,2.7
+OD00270,Help Athletic Wear,Sports,Athletic Wear,Lloyd-Campbell,2025-06-17,2025-07-19,Maharashtra,Mumbai,1,9997.45,393.87,2370.32,1.5
+OD00271,Recognize Makeup,Beauty & Health,Makeup,"Price, Riley and Nelson",2024-08-25,2025-07-15,Karnataka,Bangalore,2,2778.18,669.75,341.09,1.5
+OD00272,Indicate Athletic Wear,Sports,Athletic Wear,Oliver Group,2024-09-13,2025-07-18,Delhi,New Delhi,1,5636.21,311.47,342.46,2.9
+OD00273,Risk Skincare,Beauty & Health,Skincare,"Hill, Franco and Martinez",2024-12-31,2025-07-16,Maharashtra,Mumbai,5,4292.64,659.1,6106.31,4.9
+OD00274,Top Laptops,Electronics,Laptops,Martin Inc,2025-01-30,2025-07-12,Uttar Pradesh,Lucknow,3,103.78,12.55,85.3,2.2
+OD00275,Natural Men's Clothing,Fashion,Men's Clothing,"Walker, Tapia and Berg",2025-02-05,2025-07-11,Maharashtra,Mumbai,2,2368.3,379.77,1140.15,3.8
+OD00276,Left Athletic Wear,Sports,Athletic Wear,Ortiz-Hunt,2024-07-31,2025-07-16,Tamil Nadu,Chennai,2,8306.31,1657.2,3919.79,4.9
+OD00277,Treat Laptops,Electronics,Laptops,Gonzalez-May,2024-08-24,2025-07-14,Tamil Nadu,Coimbatore,1,9078.11,755.44,1899.0,3.7
+OD00278,Treat Skincare,Beauty & Health,Skincare,Bradley Group,2025-01-22,2025-07-15,Tamil Nadu,Coimbatore,4,4592.72,1142.92,4914.12,4.4
+OD00279,System Men's Clothing,Fashion,Men's Clothing,Brown-Tucker,2025-05-16,2025-07-12,Maharashtra,Mumbai,1,202.81,56.61,23.12,3.9
+OD00280,North Skincare,Beauty & Health,Skincare,Ramirez LLC,2025-02-15,2025-07-11,Tamil Nadu,Chennai,1,5416.48,564.8,574.4,4.3
+OD00281,Magazine Laptops,Electronics,Laptops,Warner-Jones,2025-02-05,2025-07-17,Tamil Nadu,Chennai,4,1660.92,397.32,783.48,2.3
+OD00282,Many Healthcare,Beauty & Health,Healthcare,Myers Group,2025-01-03,2025-07-16,Maharashtra,Mumbai,1,4315.56,1145.96,852.3,1.5
+OD00283,Political Tablets,Electronics,Tablets,Daniels PLC,2025-01-27,2025-07-13,Tamil Nadu,Chennai,2,5113.63,396.41,2934.99,3.4
+OD00284,Catch Fitness Equipment,Sports,Fitness Equipment,Hansen-Rich,2024-09-27,2025-07-18,Delhi,New Delhi,2,6094.63,476.44,3429.44,3.4
+OD00285,Service Makeup,Beauty & Health,Makeup,Williams Ltd,2024-11-09,2025-07-11,Maharashtra,Pune,4,4215.82,1022.04,2651.46,2.0
+OD00286,Feel Furniture,Home & Kitchen,Furniture,Brown-Kennedy,2025-03-22,2025-07-14,West Bengal,Kolkata,1,7434.81,1010.93,1644.19,4.9
+OD00287,Sound Women's Clothing,Fashion,Women's Clothing,Brennan Group,2025-02-25,2025-07-12,West Bengal,Kolkata,4,6810.45,604.32,5395.75,3.7
+OD00288,Another Tablets,Electronics,Tablets,Greene-Lewis,2024-12-26,2025-07-13,Maharashtra,Mumbai,4,4747.75,1195.64,3197.44,3.6
+OD00289,Room Makeup,Beauty & Health,Makeup,Kirk-Lopez,2025-05-18,2025-07-15,Uttar Pradesh,Lucknow,3,8109.22,1789.78,3629.22,4.4
+OD00290,Next Furniture,Home & Kitchen,Furniture,Clark PLC,2025-01-05,2025-07-19,Delhi,New Delhi,1,8809.08,1050.03,1440.26,4.4
+OD00291,Example Men's Clothing,Fashion,Men's Clothing,Mcbride Group,2024-11-10,2025-07-17,Karnataka,Bangalore,2,6339.64,645.46,3063.4,1.9
+OD00292,In Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Hopkins, Ward and Brown",2025-03-29,2025-07-14,Delhi,New Delhi,2,2005.24,561.21,357.21,4.8
+OD00293,Piece Makeup,Beauty & Health,Makeup,Rodriguez-Thompson,2024-08-15,2025-07-16,Tamil Nadu,Coimbatore,1,8782.18,1879.42,1024.38,2.3
+OD00294,Few Laptops,Electronics,Laptops,Sullivan-Ward,2024-09-01,2025-07-13,Delhi,New Delhi,1,9106.17,960.88,1222.52,3.5
+OD00295,Figure Men's Clothing,Fashion,Men's Clothing,Cooper-Guzman,2024-08-20,2025-07-13,Tamil Nadu,Chennai,2,4326.45,406.61,1369.09,2.9
+OD00296,Put Home Decor,Home & Kitchen,Home Decor,"Rogers, Nelson and Conley",2024-10-07,2025-07-17,Tamil Nadu,Coimbatore,4,2977.69,479.1,2987.59,2.5
+OD00297,Up Mobiles,Electronics,Mobiles,Houston-Phillips,2025-01-03,2025-07-12,Karnataka,Bangalore,2,9561.25,1992.0,4585.72,3.2
+OD00298,Note Outdoor Sports,Sports,Outdoor Sports,Duncan and Sons,2025-05-15,2025-07-19,Delhi,New Delhi,2,1226.71,205.11,300.7,4.2
+OD00299,Staff Healthcare,Beauty & Health,Healthcare,"Jones, Turner and Howard",2024-07-20,2025-07-11,Maharashtra,Pune,5,2380.33,519.91,1290.18,2.6
+OD00300,Mean Outdoor Sports,Sports,Outdoor Sports,Cook Ltd,2024-11-25,2025-07-18,Maharashtra,Pune,3,3838.36,256.11,2719.41,2.0
+OD00301,Society Makeup,Beauty & Health,Makeup,Wallace-Harris,2024-08-07,2025-07-18,Delhi,New Delhi,5,5292.1,813.97,3639.62,2.7
+OD00302,Exist Men's Clothing,Fashion,Men's Clothing,"Moore, Collins and Charles",2025-05-17,2025-07-11,Uttar Pradesh,Noida,5,5839.24,642.49,7908.13,4.8
+OD00303,Lose Laptops,Electronics,Laptops,Cameron-Ponce,2024-12-07,2025-07-12,Delhi,New Delhi,5,7068.27,407.38,7471.3,1.4
+OD00304,Data Fitness Equipment,Sports,Fitness Equipment,David-Ayers,2024-11-17,2025-07-20,Maharashtra,Mumbai,4,5104.01,922.24,5127.47,2.6
+OD00305,Paper Healthcare,Beauty & Health,Healthcare,Campbell-Collins,2024-09-05,2025-07-16,Maharashtra,Mumbai,5,3518.4,728.27,1526.66,1.5
+OD00306,Structure Skincare,Beauty & Health,Skincare,Martin LLC,2025-03-30,2025-07-16,Maharashtra,Pune,2,8188.39,1293.54,2926.34,5.0
+OD00307,Gas Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Rojas-Avery,2024-08-12,2025-07-15,West Bengal,Kolkata,1,1093.36,149.09,150.45,2.4
+OD00308,To Tablets,Electronics,Tablets,Kelly-Smith,2025-03-11,2025-07-11,West Bengal,Kolkata,5,2529.34,750.51,2794.23,2.0
+OD00309,Recognize Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Gonzales-Lozano,2025-07-08,2025-07-14,Karnataka,Mysore,4,9233.12,2320.07,9357.02,1.9
+OD00310,Purpose Footwear,Fashion,Footwear,"Solis, Baker and Alexander",2025-06-28,2025-07-11,Uttar Pradesh,Lucknow,3,5123.03,769.57,4087.88,4.4
+OD00311,Anyone Healthcare,Beauty & Health,Healthcare,Lynch Inc,2025-01-01,2025-07-11,West Bengal,Kolkata,3,9620.76,2873.79,5548.66,3.2
+OD00312,Writer Women's Clothing,Fashion,Women's Clothing,"Wilkins, Parrish and Johnson",2025-01-18,2025-07-18,Karnataka,Mysore,4,2229.69,519.83,2217.64,3.6
+OD00313,Director Healthcare,Beauty & Health,Healthcare,Rodriguez-Green,2024-12-14,2025-07-17,Delhi,New Delhi,5,6056.73,54.63,5925.98,2.6
+OD00314,Effort Footwear,Fashion,Footwear,Jensen-Rios,2024-08-30,2025-07-19,West Bengal,Kolkata,5,8036.8,509.13,8464.61,3.3
+OD00315,Glass Fitness Equipment,Sports,Fitness Equipment,Reed PLC,2025-02-24,2025-07-15,Karnataka,Bangalore,3,2196.42,534.98,1599.41,3.3
+OD00316,Authority Makeup,Beauty & Health,Makeup,Hodges LLC,2024-09-29,2025-07-19,Delhi,New Delhi,4,6773.49,1525.63,2583.37,2.4
+OD00317,Behavior Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Charles, Anderson and Watson",2025-04-16,2025-07-12,Tamil Nadu,Coimbatore,5,9417.54,2231.38,13304.86,2.6
+OD00318,Candidate Tablets,Electronics,Tablets,"Taylor, Reyes and Taylor",2025-05-21,2025-07-14,Uttar Pradesh,Lucknow,2,6322.58,237.75,2341.57,3.5
+OD00319,As Tablets,Electronics,Tablets,Villa-Coleman,2024-08-14,2025-07-12,Delhi,New Delhi,4,5980.5,737.85,5751.86,2.0
+OD00320,Western Home Decor,Home & Kitchen,Home Decor,Summers-Brown,2024-12-17,2025-07-11,Karnataka,Bangalore,5,6776.95,1582.33,4590.82,3.3
+OD00321,Rich Fitness Equipment,Sports,Fitness Equipment,Bryan-Olson,2024-09-28,2025-07-14,West Bengal,Kolkata,1,5775.4,1373.92,902.99,2.1
+OD00322,Shake Healthcare,Beauty & Health,Healthcare,Duran PLC,2025-05-08,2025-07-16,Delhi,New Delhi,3,3425.49,321.03,983.75,4.5
+OD00323,Hot Laptops,Electronics,Laptops,Moss Inc,2025-05-18,2025-07-14,Tamil Nadu,Coimbatore,3,5944.58,1255.09,1560.83,3.0
+OD00324,Determine Tablets,Electronics,Tablets,Rollins PLC,2025-04-15,2025-07-14,Maharashtra,Mumbai,1,7925.08,1309.05,877.29,4.5
+OD00325,Team Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Ochoa, Huerta and Robinson",2024-11-21,2025-07-17,Maharashtra,Mumbai,4,1349.11,372.45,1320.45,4.7
+OD00326,Side Home Decor,Home & Kitchen,Home Decor,"Hughes, Jackson and Hernandez",2024-08-21,2025-07-18,Uttar Pradesh,Noida,4,8203.47,344.42,7768.81,1.4
+OD00327,Region Athletic Wear,Sports,Athletic Wear,Evans-Richardson,2025-01-02,2025-07-11,Uttar Pradesh,Noida,3,4935.68,646.03,2192.09,4.7
+OD00328,Kind Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Harris, Kemp and Smith",2025-04-07,2025-07-16,West Bengal,Kolkata,3,4800.56,550.64,1061.06,1.9
+OD00329,Box Outdoor Sports,Sports,Outdoor Sports,Powell PLC,2024-07-12,2025-07-19,Tamil Nadu,Coimbatore,4,4064.72,1196.67,3340.05,1.3
+OD00330,For Athletic Wear,Sports,Athletic Wear,Carter and Sons,2024-08-31,2025-07-19,Maharashtra,Pune,5,5105.09,856.34,2153.74,4.9
+OD00331,Better Skincare,Beauty & Health,Skincare,"Sims, Moore and Rogers",2025-01-19,2025-07-15,Uttar Pradesh,Lucknow,3,8471.69,662.14,7150.63,4.7
+OD00332,Require Mobiles,Electronics,Mobiles,Gonzalez and Sons,2025-02-10,2025-07-18,Tamil Nadu,Chennai,3,4316.71,236.3,3802.67,2.5
+OD00333,Like Skincare,Beauty & Health,Skincare,Mcdonald Inc,2025-02-03,2025-07-14,Delhi,New Delhi,4,7810.43,1852.33,2722.93,1.7
+OD00334,Father Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Smith-Aguilar,2024-10-26,2025-07-12,West Bengal,Kolkata,3,499.27,63.63,336.52,4.0
+OD00335,Culture Skincare,Beauty & Health,Skincare,Anderson-French,2025-02-19,2025-07-11,Delhi,New Delhi,1,961.16,59.72,190.76,4.3
+OD00336,Picture Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Jennings, Smith and Moran",2024-07-20,2025-07-18,Karnataka,Bangalore,3,2594.62,492.25,734.48,4.9
+OD00337,Professional Skincare,Beauty & Health,Skincare,Clay Inc,2024-11-25,2025-07-12,Karnataka,Mysore,3,7488.84,117.66,5292.1,4.0
+OD00338,Admit Skincare,Beauty & Health,Skincare,Cook-Anderson,2025-03-25,2025-07-14,Karnataka,Bangalore,2,9844.59,2032.44,2348.83,1.8
+OD00339,Later Men's Clothing,Fashion,Men's Clothing,Henderson LLC,2024-11-12,2025-07-13,West Bengal,Kolkata,2,8911.02,879.23,2449.3,4.2
+OD00340,Value Furniture,Home & Kitchen,Furniture,"Andrews, Dixon and Barber",2025-06-29,2025-07-12,Delhi,New Delhi,1,7988.83,2013.84,1503.19,2.9
+OD00341,Civil Footwear,Fashion,Footwear,Thomas-Jones,2024-10-01,2025-07-12,Tamil Nadu,Coimbatore,3,7012.01,2094.37,5415.66,1.4
+OD00342,Sister Athletic Wear,Sports,Athletic Wear,"Frederick, Ward and Singleton",2024-11-03,2025-07-11,Uttar Pradesh,Noida,3,7198.88,1595.34,4054.05,3.7
+OD00343,Laugh Athletic Wear,Sports,Athletic Wear,Hernandez PLC,2024-11-26,2025-07-18,Uttar Pradesh,Noida,2,7263.32,2003.15,1126.35,2.3
+OD00344,Together Footwear,Fashion,Footwear,"Webster, Baker and Ayala",2024-10-13,2025-07-16,Delhi,New Delhi,1,8991.25,1817.86,1929.15,1.1
+OD00345,Beyond Mobiles,Electronics,Mobiles,Rios LLC,2025-06-09,2025-07-20,Tamil Nadu,Chennai,3,4877.89,11.23,4286.64,2.4
+OD00346,Almost Skincare,Beauty & Health,Skincare,Snyder-Potter,2025-03-22,2025-07-18,Uttar Pradesh,Noida,5,2441.1,449.06,1622.5,3.8
+OD00347,Law Skincare,Beauty & Health,Skincare,"Duran, Yates and Ward",2025-03-31,2025-07-18,Tamil Nadu,Chennai,4,5192.37,1197.22,4790.12,3.5
+OD00348,Cut Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Smith and Sons,2024-12-11,2025-07-20,Karnataka,Bangalore,2,209.09,15.83,35.36,4.5
+OD00349,Staff Women's Clothing,Fashion,Women's Clothing,Thompson-Park,2024-09-17,2025-07-20,Delhi,New Delhi,4,3906.04,416.83,3277.04,1.5
+OD00350,Live Footwear,Fashion,Footwear,"Gonzalez, Lozano and Small",2025-03-16,2025-07-19,West Bengal,Kolkata,5,8518.21,1904.29,3939.42,4.4
+OD00351,However Home Decor,Home & Kitchen,Home Decor,"Burns, Weaver and Ellis",2025-02-07,2025-07-15,West Bengal,Kolkata,1,4627.76,166.21,1155.1,3.2
+OD00352,Push Women's Clothing,Fashion,Women's Clothing,"Barton, Choi and Brown",2025-02-03,2025-07-13,West Bengal,Kolkata,3,7797.89,546.63,6693.46,2.8
+OD00353,Become Home Decor,Home & Kitchen,Home Decor,"Henry, Wilson and Townsend",2024-07-17,2025-07-12,Uttar Pradesh,Noida,3,7684.17,1026.02,3763.53,4.1
+OD00354,Approach Footwear,Fashion,Footwear,Eaton Group,2024-11-22,2025-07-16,West Bengal,Kolkata,1,3562.87,425.26,342.28,2.1
+OD00355,Eat Men's Clothing,Fashion,Men's Clothing,"Lee, Richard and Mays",2024-11-02,2025-07-13,Karnataka,Mysore,1,7285.94,1069.42,592.07,5.0
+OD00356,Relationship Healthcare,Beauty & Health,Healthcare,"Yang, Salinas and Garcia",2025-01-19,2025-07-17,Tamil Nadu,Chennai,4,8416.81,2521.31,4096.98,4.9
+OD00357,Later Fitness Equipment,Sports,Fitness Equipment,"Bond, Hubbard and Green",2025-05-28,2025-07-16,Maharashtra,Mumbai,1,660.35,41.29,34.83,1.7
+OD00358,Rule Home Decor,Home & Kitchen,Home Decor,"Ford, Pace and Kennedy",2025-01-26,2025-07-16,Delhi,New Delhi,2,5125.9,1011.75,2054.7,3.1
+OD00359,Return Fitness Equipment,Sports,Fitness Equipment,Mccarthy-Johnson,2024-07-28,2025-07-11,Karnataka,Bangalore,1,7103.36,1553.67,965.62,2.5
+OD00360,Cost Healthcare,Beauty & Health,Healthcare,"Walsh, Burns and Johns",2025-07-03,2025-07-20,West Bengal,Kolkata,2,5385.16,1611.77,1259.04,3.9
+OD00361,Current Athletic Wear,Sports,Athletic Wear,Blackwell Ltd,2024-10-13,2025-07-19,Maharashtra,Mumbai,1,8245.15,1794.68,916.88,4.8
+OD00362,Fear Healthcare,Beauty & Health,Healthcare,Sanders Group,2025-05-13,2025-07-11,Tamil Nadu,Coimbatore,4,8577.18,582.44,9849.88,1.9
+OD00363,Of Fitness Equipment,Sports,Fitness Equipment,Chase-Adams,2024-11-01,2025-07-15,Uttar Pradesh,Noida,4,3155.13,194.31,1331.44,4.6
+OD00364,Spring Fitness Equipment,Sports,Fitness Equipment,Parsons and Sons,2024-10-04,2025-07-16,Tamil Nadu,Coimbatore,5,9588.51,1001.56,7914.99,4.9
+OD00365,Old Fitness Equipment,Sports,Fitness Equipment,Morse-Campbell,2025-07-01,2025-07-16,Karnataka,Mysore,5,3559.21,280.43,3068.35,4.9
+OD00366,Animal Outdoor Sports,Sports,Outdoor Sports,"Kline, Andrade and Pittman",2024-08-05,2025-07-19,West Bengal,Kolkata,5,7752.14,1885.11,5079.67,2.6
+OD00367,Add Makeup,Beauty & Health,Makeup,"Foley, Christensen and Hardy",2024-07-22,2025-07-17,Tamil Nadu,Coimbatore,1,9810.2,1935.34,2291.22,3.3
+OD00368,Spring Men's Clothing,Fashion,Men's Clothing,Thomas PLC,2024-12-06,2025-07-20,West Bengal,Kolkata,1,783.19,89.98,76.72,1.3
+OD00369,Exist Footwear,Fashion,Footwear,Massey-Jones,2025-03-26,2025-07-17,Tamil Nadu,Coimbatore,5,6198.56,1622.08,6326.75,4.1
+OD00370,Create Fitness Equipment,Sports,Fitness Equipment,Dunn Inc,2024-11-11,2025-07-19,Delhi,New Delhi,1,3023.17,851.46,502.24,4.5
+OD00371,Not Fitness Equipment,Sports,Fitness Equipment,"Nunez, Guerrero and Garcia",2024-11-27,2025-07-20,Maharashtra,Pune,3,8182.67,1320.72,5345.39,5.0
+OD00372,Sign Women's Clothing,Fashion,Women's Clothing,Davis LLC,2024-11-24,2025-07-12,Maharashtra,Pune,4,8526.32,413.26,10064.87,3.3
+OD00373,Place Furniture,Home & Kitchen,Furniture,Christensen and Sons,2024-11-14,2025-07-20,Karnataka,Bangalore,3,9613.04,5.42,7329.49,3.0
+OD00374,Join Home Decor,Home & Kitchen,Home Decor,Sandoval-Brooks,2025-05-04,2025-07-15,Karnataka,Mysore,4,6093.0,1230.94,5153.06,3.2
+OD00375,Modern Laptops,Electronics,Laptops,"Johnson, Hudson and Cervantes",2025-01-28,2025-07-20,Delhi,New Delhi,5,2077.19,56.19,2511.6,3.7
+OD00376,Time Footwear,Fashion,Footwear,"Perez, Nelson and Walters",2024-10-04,2025-07-12,Uttar Pradesh,Noida,2,5879.56,1256.9,2490.34,1.4
+OD00377,Value Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Conway-Jenkins,2025-01-24,2025-07-12,Delhi,New Delhi,4,7201.4,392.44,5564.22,1.4
+OD00378,Program Tablets,Electronics,Tablets,Stanton-Mullins,2024-11-03,2025-07-17,Delhi,New Delhi,5,3039.38,336.19,1461.95,2.7
+OD00379,Education Healthcare,Beauty & Health,Healthcare,Klein-White,2024-12-14,2025-07-16,Uttar Pradesh,Lucknow,3,3915.12,1137.12,2990.53,3.6
+OD00380,Summer Healthcare,Beauty & Health,Healthcare,Cohen-Taylor,2025-01-09,2025-07-12,Karnataka,Mysore,1,5683.65,631.56,501.14,3.3
+OD00381,Final Outdoor Sports,Sports,Outdoor Sports,"Wilson, Wood and Lambert",2025-05-01,2025-07-20,West Bengal,Kolkata,3,6653.97,1845.9,4391.84,1.0
+OD00382,Financial Footwear,Fashion,Footwear,"Fox, Miller and Giles",2024-09-13,2025-07-18,Delhi,New Delhi,3,4600.11,849.51,3056.96,3.2
+OD00383,Own Furniture,Home & Kitchen,Furniture,Harrison-Campbell,2025-04-05,2025-07-11,Tamil Nadu,Coimbatore,1,6309.9,257.04,813.25,3.2
+OD00384,Game Makeup,Beauty & Health,Makeup,Combs-Edwards,2024-08-01,2025-07-19,Maharashtra,Pune,5,9046.97,1299.68,11413.63,2.5
+OD00385,Follow Furniture,Home & Kitchen,Furniture,Bell-Castillo,2024-09-04,2025-07-18,Delhi,New Delhi,2,2098.75,74.63,1012.39,1.3
+OD00386,In Athletic Wear,Sports,Athletic Wear,Evans-Sharp,2025-05-13,2025-07-11,Karnataka,Mysore,5,2194.08,343.25,2874.07,4.9
+OD00387,Want Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Hunter and Sons,2024-07-15,2025-07-11,Maharashtra,Mumbai,4,8416.16,1919.15,2878.72,3.9
+OD00388,Meet Furniture,Home & Kitchen,Furniture,Cummings-Richards,2024-10-28,2025-07-11,Karnataka,Mysore,2,3410.02,523.1,1201.64,1.9
+OD00389,Show Athletic Wear,Sports,Athletic Wear,Leonard Inc,2024-12-27,2025-07-18,Maharashtra,Mumbai,2,2522.12,513.02,1031.37,4.5
+OD00390,Source Skincare,Beauty & Health,Skincare,Martinez and Sons,2025-02-13,2025-07-15,Delhi,New Delhi,2,3620.45,802.67,885.08,3.7
+OD00391,As Healthcare,Beauty & Health,Healthcare,Murillo-Carroll,2025-03-22,2025-07-18,Karnataka,Mysore,5,3479.93,813.65,4400.68,1.8
+OD00392,Free Women's Clothing,Fashion,Women's Clothing,Strong-Martin,2025-03-19,2025-07-17,Uttar Pradesh,Lucknow,4,3589.08,788.48,2716.61,3.5
+OD00393,Laugh Fitness Equipment,Sports,Fitness Equipment,Meyer-Edwards,2025-02-23,2025-07-14,Maharashtra,Pune,5,3012.64,187.04,3381.8,4.4
+OD00394,With Healthcare,Beauty & Health,Healthcare,Esparza LLC,2025-04-06,2025-07-17,West Bengal,Kolkata,5,3993.86,978.06,2418.7,4.2
+OD00395,Store Fitness Equipment,Sports,Fitness Equipment,Brown-Hart,2024-08-13,2025-07-11,Delhi,New Delhi,4,2580.88,760.77,1307.64,2.0
+OD00396,Practice Men's Clothing,Fashion,Men's Clothing,"Flores, Levine and Carroll",2025-06-18,2025-07-13,Karnataka,Mysore,2,3812.96,799.27,1498.16,3.6
+OD00397,Themselves Athletic Wear,Sports,Athletic Wear,Strickland and Sons,2024-07-27,2025-07-11,Uttar Pradesh,Lucknow,5,6765.67,1874.32,9342.72,2.0
+OD00398,Position Footwear,Fashion,Footwear,Brown and Sons,2025-05-19,2025-07-16,Tamil Nadu,Chennai,5,1662.27,193.99,1718.11,1.5
+OD00399,Make Mobiles,Electronics,Mobiles,"Wallace, Alvarez and Kennedy",2025-06-07,2025-07-15,Uttar Pradesh,Lucknow,5,3005.5,454.2,4307.25,3.7
+OD00400,Challenge Healthcare,Beauty & Health,Healthcare,Knox-Martin,2025-03-06,2025-07-14,West Bengal,Kolkata,2,3665.71,679.47,1622.95,4.2
+OD00401,Very Laptops,Electronics,Laptops,"Tran, Sanchez and Costa",2024-08-12,2025-07-17,Delhi,New Delhi,5,4823.02,350.56,4247.97,4.0
+OD00402,His Makeup,Beauty & Health,Makeup,"Cunningham, Smith and Hale",2025-05-16,2025-07-13,Karnataka,Mysore,4,1001.74,240.55,557.24,2.3
+OD00403,Former Healthcare,Beauty & Health,Healthcare,"Compton, Mueller and Johnson",2024-08-03,2025-07-15,Uttar Pradesh,Lucknow,5,9431.91,9.45,3185.34,3.6
+OD00404,Level Footwear,Fashion,Footwear,Rivera LLC,2024-08-12,2025-07-18,Tamil Nadu,Coimbatore,4,4438.36,69.2,5014.35,2.9
+OD00405,Detail Skincare,Beauty & Health,Skincare,"Macdonald, Black and Rangel",2025-04-22,2025-07-13,West Bengal,Kolkata,3,4501.49,1222.33,2319.57,2.9
+OD00406,Deal Mobiles,Electronics,Mobiles,"Avery, Johnson and Lee",2024-12-15,2025-07-12,Tamil Nadu,Chennai,2,6218.32,1538.6,1887.28,1.0
+OD00407,It Laptops,Electronics,Laptops,Walsh-Hicks,2025-06-15,2025-07-19,Uttar Pradesh,Lucknow,1,7985.75,658.36,483.72,4.7
+OD00408,Theory Furniture,Home & Kitchen,Furniture,"Miles, George and Pearson",2025-01-27,2025-07-15,West Bengal,Kolkata,3,9658.81,199.42,6373.54,3.0
+OD00409,Sure Outdoor Sports,Sports,Outdoor Sports,Perez PLC,2025-04-21,2025-07-11,Tamil Nadu,Coimbatore,4,9101.93,1149.81,2017.48,4.1
+OD00410,Seven Healthcare,Beauty & Health,Healthcare,Lewis and Sons,2025-02-27,2025-07-18,Uttar Pradesh,Noida,1,9292.0,1119.27,1301.18,1.6
+OD00411,Note Furniture,Home & Kitchen,Furniture,Nichols-Hunt,2024-08-19,2025-07-12,Karnataka,Bangalore,1,1284.24,304.48,178.81,1.7
+OD00412,Some Men's Clothing,Fashion,Men's Clothing,"Butler, Romero and Young",2025-04-08,2025-07-15,Tamil Nadu,Coimbatore,1,9685.2,2899.57,1047.76,4.7
+OD00413,Forget Tablets,Electronics,Tablets,Thompson Inc,2025-05-18,2025-07-15,West Bengal,Kolkata,1,7531.79,520.62,1247.07,3.1
+OD00414,Hear Laptops,Electronics,Laptops,"Nguyen, Ruiz and Jones",2025-04-24,2025-07-11,Tamil Nadu,Chennai,2,6435.48,1751.28,614.17,3.5
+OD00415,Control Healthcare,Beauty & Health,Healthcare,"Hogan, Thompson and Martinez",2025-01-06,2025-07-20,Delhi,New Delhi,1,4905.14,199.25,599.39,4.6
+OD00416,Family Furniture,Home & Kitchen,Furniture,"Thomas, Ross and Leonard",2024-08-13,2025-07-14,Delhi,New Delhi,4,9236.5,1385.3,10228.29,2.4
+OD00417,Growth Outdoor Sports,Sports,Outdoor Sports,"Williams, Welch and Bell",2024-10-20,2025-07-19,Delhi,New Delhi,1,6037.0,417.95,1114.47,4.9
+OD00418,Floor Healthcare,Beauty & Health,Healthcare,"Miller, Lopez and Green",2025-05-29,2025-07-13,Uttar Pradesh,Noida,3,2574.12,60.75,1284.3,3.3
+OD00419,Home Mobiles,Electronics,Mobiles,Burch-Hall,2024-10-30,2025-07-12,Uttar Pradesh,Lucknow,1,7595.7,1052.45,1428.38,1.6
+OD00420,Top Fitness Equipment,Sports,Fitness Equipment,Black-Mullins,2024-10-18,2025-07-20,Delhi,New Delhi,3,134.81,32.85,27.79,3.2
+OD00421,Election Tablets,Electronics,Tablets,"Gamble, Phillips and Harris",2025-06-06,2025-07-17,West Bengal,Kolkata,3,4852.26,473.68,3494.39,4.8
+OD00422,Size Men's Clothing,Fashion,Men's Clothing,"Lewis, Vasquez and Kaiser",2024-11-15,2025-07-18,Karnataka,Bangalore,3,5291.55,1531.02,2505.05,2.5
+OD00423,Sister Tablets,Electronics,Tablets,"Lowe, Carroll and Ayers",2025-04-28,2025-07-20,West Bengal,Kolkata,3,6616.82,1765.21,3651.23,4.0
+OD00424,Pay Furniture,Home & Kitchen,Furniture,Hayes-Cardenas,2024-11-17,2025-07-17,West Bengal,Kolkata,5,331.78,6.12,336.46,4.3
+OD00425,Against Mobiles,Electronics,Mobiles,Cardenas Ltd,2024-11-28,2025-07-11,West Bengal,Kolkata,5,6616.59,1271.49,3854.79,4.8
+OD00426,Class Skincare,Beauty & Health,Skincare,Rogers-Ray,2024-08-21,2025-07-14,Karnataka,Mysore,2,6290.04,964.13,1790.23,4.6
+OD00427,Mother Outdoor Sports,Sports,Outdoor Sports,"Baker, Trevino and White",2025-05-04,2025-07-16,Karnataka,Bangalore,4,8643.4,1197.82,6043.08,4.2
+OD00428,Notice Footwear,Fashion,Footwear,Myers LLC,2024-09-25,2025-07-12,Delhi,New Delhi,5,6756.45,547.08,7820.13,4.6
+OD00429,Man Makeup,Beauty & Health,Makeup,Ayala PLC,2024-10-05,2025-07-13,Uttar Pradesh,Lucknow,4,2241.31,514.89,2220.68,3.9
+OD00430,Show Skincare,Beauty & Health,Skincare,Thomas LLC,2025-06-03,2025-07-20,Maharashtra,Mumbai,4,2580.52,89.52,2859.16,2.5
+OD00431,Claim Fitness Equipment,Sports,Fitness Equipment,"Garcia, Johnson and Moore",2025-02-21,2025-07-16,Tamil Nadu,Coimbatore,2,3674.27,641.27,1637.87,3.2
+OD00432,Natural Athletic Wear,Sports,Athletic Wear,Dodson-Mitchell,2025-03-30,2025-07-15,Delhi,New Delhi,2,292.37,13.28,46.16,2.0
+OD00433,Popular Skincare,Beauty & Health,Skincare,Olson-Brandt,2025-06-24,2025-07-18,Maharashtra,Mumbai,3,8746.32,253.8,3997.81,1.8
+OD00434,Stuff Home Decor,Home & Kitchen,Home Decor,"Ramsey, Miller and Graves",2025-07-07,2025-07-17,Maharashtra,Mumbai,2,4348.12,220.44,1141.5,1.1
+OD00435,Support Makeup,Beauty & Health,Makeup,Carpenter-Miller,2024-11-21,2025-07-20,Maharashtra,Mumbai,2,9343.99,2065.5,902.05,3.9
+OD00436,Technology Laptops,Electronics,Laptops,Gutierrez-Newton,2024-12-25,2025-07-14,West Bengal,Kolkata,3,6117.55,295.34,2655.87,4.7
+OD00437,Among Tablets,Electronics,Tablets,"Williams, Edwards and Smith",2025-06-03,2025-07-17,Karnataka,Bangalore,2,3347.65,639.35,1619.1,4.8
+OD00438,Light Outdoor Sports,Sports,Outdoor Sports,"Rodriguez, White and Hoffman",2025-04-08,2025-07-11,Karnataka,Bangalore,3,8610.35,1654.39,4585.03,2.6
+OD00439,Court Women's Clothing,Fashion,Women's Clothing,Blackburn LLC,2025-06-19,2025-07-19,Delhi,New Delhi,1,1837.29,314.17,419.94,1.7
+OD00440,Customer Footwear,Fashion,Footwear,Simpson-Carrillo,2024-09-08,2025-07-18,Maharashtra,Pune,4,653.0,10.44,747.88,2.9
+OD00441,Eat Kitchen Appliances,Home & Kitchen,Kitchen Appliances,"Smith, Huber and Patel",2024-10-29,2025-07-18,West Bengal,Kolkata,1,9218.76,586.03,1935.65,2.1
+OD00442,Attack Outdoor Sports,Sports,Outdoor Sports,Villarreal and Sons,2024-11-02,2025-07-13,Uttar Pradesh,Lucknow,1,5511.61,1384.65,1027.01,1.1
+OD00443,Outside Skincare,Beauty & Health,Skincare,"Summers, Hunt and Jones",2025-05-21,2025-07-13,West Bengal,Kolkata,5,412.08,83.59,219.16,1.5
+OD00444,Edge Athletic Wear,Sports,Athletic Wear,Beltran and Sons,2025-02-10,2025-07-17,Uttar Pradesh,Noida,2,4171.76,486.91,1175.45,2.2
+OD00445,Hotel Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Brown-Wu,2024-12-28,2025-07-12,West Bengal,Kolkata,3,2003.93,134.07,407.83,3.2
+OD00446,Level Outdoor Sports,Sports,Outdoor Sports,"Pineda, Andrade and Powell",2024-09-02,2025-07-19,Tamil Nadu,Coimbatore,5,5002.18,1286.97,5024.51,1.5
+OD00447,Have Furniture,Home & Kitchen,Furniture,Conner-Rose,2024-12-13,2025-07-18,Karnataka,Mysore,3,3761.6,189.91,2728.85,4.5
+OD00448,Myself Fitness Equipment,Sports,Fitness Equipment,Fowler LLC,2024-11-13,2025-07-12,Uttar Pradesh,Lucknow,5,9452.94,2244.2,13155.64,3.5
+OD00449,Item Fitness Equipment,Sports,Fitness Equipment,"Jones, Gallegos and Ortiz",2025-02-19,2025-07-20,Tamil Nadu,Chennai,5,9468.84,1348.97,7287.9,2.7
+OD00450,Explain Tablets,Electronics,Tablets,Gardner-Young,2024-10-29,2025-07-18,Maharashtra,Pune,3,8552.33,423.77,1769.06,3.9
+OD00451,Break Healthcare,Beauty & Health,Healthcare,Cooper-Thompson,2025-04-06,2025-07-14,Karnataka,Mysore,5,8677.48,741.75,6298.85,2.3
+OD00452,Protect Skincare,Beauty & Health,Skincare,Kelly-Walker,2025-04-11,2025-07-15,Delhi,New Delhi,3,2834.99,343.61,1104.37,2.1
+OD00453,View Outdoor Sports,Sports,Outdoor Sports,"Warner, Gilbert and Davis",2024-11-02,2025-07-16,Uttar Pradesh,Lucknow,5,6263.53,1508.41,5123.85,2.0
+OD00454,Company Home Decor,Home & Kitchen,Home Decor,Carrillo-Griffin,2025-06-19,2025-07-14,Tamil Nadu,Chennai,2,1538.42,414.47,752.66,3.9
+OD00455,Take Laptops,Electronics,Laptops,"Washington, Graham and Guerrero",2025-01-04,2025-07-19,Karnataka,Mysore,3,7077.37,47.97,4743.38,4.4
+OD00456,Unit Footwear,Fashion,Footwear,Miller-Cook,2024-12-19,2025-07-20,Tamil Nadu,Coimbatore,4,679.71,43.79,364.86,4.6
+OD00457,Think Furniture,Home & Kitchen,Furniture,Barrett LLC,2024-12-31,2025-07-16,Tamil Nadu,Coimbatore,3,6741.89,1982.44,4138.32,3.7
+OD00458,Measure Tablets,Electronics,Tablets,Scott-Chen,2024-10-17,2025-07-19,Delhi,New Delhi,2,8244.76,1188.29,1288.8,2.0
+OD00459,Structure Healthcare,Beauty & Health,Healthcare,"Cruz, Pena and Pollard",2025-01-24,2025-07-20,Tamil Nadu,Coimbatore,3,9360.81,2785.6,1953.62,2.2
+OD00460,Trouble Outdoor Sports,Sports,Outdoor Sports,Hughes-Ellison,2025-04-16,2025-07-20,Maharashtra,Mumbai,4,6296.55,1327.34,2738.68,1.2
+OD00461,Right Outdoor Sports,Sports,Outdoor Sports,"Montgomery, Day and Hanson",2025-05-10,2025-07-12,Uttar Pradesh,Lucknow,1,1873.69,254.05,396.48,4.7
+OD00462,Score Athletic Wear,Sports,Athletic Wear,Mathis Ltd,2025-01-18,2025-07-13,Karnataka,Mysore,5,7650.45,1204.95,4371.27,1.1
+OD00463,Test Furniture,Home & Kitchen,Furniture,"Grant, Morales and Nelson",2025-04-10,2025-07-18,West Bengal,Kolkata,3,8690.48,2119.54,4062.2,4.1
+OD00464,Sort Skincare,Beauty & Health,Skincare,Parrish and Sons,2024-10-07,2025-07-11,Tamil Nadu,Coimbatore,3,6176.44,972.26,2488.08,4.3
+OD00465,Name Fitness Equipment,Sports,Fitness Equipment,Schmidt Group,2024-12-23,2025-07-13,Uttar Pradesh,Noida,4,7777.98,2172.2,2806.06,3.3
+OD00466,Project Men's Clothing,Fashion,Men's Clothing,Moses LLC,2025-03-29,2025-07-11,Tamil Nadu,Chennai,4,4505.95,1287.01,983.95,2.8
+OD00467,Mission Footwear,Fashion,Footwear,Anderson Group,2024-09-23,2025-07-14,Maharashtra,Mumbai,4,8381.27,1660.5,4294.13,2.3
+OD00468,Second Fitness Equipment,Sports,Fitness Equipment,Perkins-Simmons,2025-03-25,2025-07-15,West Bengal,Kolkata,3,9948.31,2822.63,2556.13,2.1
+OD00469,Before Mobiles,Electronics,Mobiles,Malone PLC,2025-06-30,2025-07-17,Delhi,New Delhi,2,6716.27,170.79,2339.35,3.2
+OD00470,Simply Makeup,Beauty & Health,Makeup,Jones PLC,2024-09-15,2025-07-19,Uttar Pradesh,Lucknow,2,8248.29,1689.0,2250.48,4.9
+OD00471,Star Kitchen Appliances,Home & Kitchen,Kitchen Appliances,Clark PLC,2025-01-21,2025-07-11,Maharashtra,Pune,3,6570.57,24.34,4353.17,4.0
+OD00472,Decision Furniture,Home & Kitchen,Furniture,"Sanders, Chase and Elliott",2024-12-22,2025-07-11,Uttar Pradesh,Noida,3,6824.96,1419.25,4972.08,3.8
+OD00473,Hold Laptops,Electronics,Laptops,Sherman Ltd,2025-04-25,2025-07-14,Delhi,New Delhi,4,6353.97,994.48,6005.74,1.0
+OD00474,Condition Skincare,Beauty & Health,Skincare,"Franklin, Jackson and Robinson",2025-02-18,2025-07-17,Uttar Pradesh,Noida,3,1847.85,60.05,922.25,1.2
+OD00475,Ten Tablets,Electronics,Tablets,Henderson-Kelly,2024-07-26,2025-07-16,Uttar Pradesh,Noida,2,4406.77,387.36,631.25,3.8
+OD00476,Forward Mobiles,Electronics,Mobiles,Ingram and Sons,2025-04-05,2025-07-16,West Bengal,Kolkata,1,688.93,18.45,135.22,2.7
+OD00477,Total Healthcare,Beauty & Health,Healthcare,"Aguilar, Armstrong and Velasquez",2025-04-07,2025-07-17,Maharashtra,Pune,5,9496.16,2632.34,9956.05,1.2
+OD00478,If Makeup,Beauty & Health,Makeup,Allen-Olson,2025-07-03,2025-07-15,West Bengal,Kolkata,5,3280.66,606.95,2083.97,1.8
+OD00479,Officer Laptops,Electronics,Laptops,"Brown, Bradley and Lopez",2025-06-29,2025-07-17,Tamil Nadu,Coimbatore,4,3585.51,92.28,3024.15,4.9
+OD00480,Force Footwear,Fashion,Footwear,Huerta-Stone,2024-09-12,2025-07-20,Uttar Pradesh,Noida,3,3991.6,750.44,1122.82,4.0
+OD00481,Begin Tablets,Electronics,Tablets,Bell PLC,2025-05-29,2025-07-13,Maharashtra,Pune,1,9384.93,1053.32,862.07,1.5
+OD00482,Occur Athletic Wear,Sports,Athletic Wear,Klein LLC,2024-09-30,2025-07-13,Maharashtra,Mumbai,5,2746.78,617.55,1917.08,3.8
+OD00483,Order Men's Clothing,Fashion,Men's Clothing,"Mitchell, Smith and Fisher",2024-10-14,2025-07-17,Maharashtra,Pune,5,6660.48,1786.1,4393.63,1.6
+OD00484,Growth Furniture,Home & Kitchen,Furniture,"White, Terrell and Brooks",2024-09-20,2025-07-18,Delhi,New Delhi,5,4509.28,871.57,4773.98,1.9
+OD00485,Instead Fitness Equipment,Sports,Fitness Equipment,Gonzalez-Jones,2025-03-26,2025-07-16,Delhi,New Delhi,2,4231.21,670.76,669.25,3.6
+OD00486,Past Healthcare,Beauty & Health,Healthcare,Hill-Wright,2025-03-26,2025-07-19,Delhi,New Delhi,1,3304.39,519.24,519.44,2.8
+OD00487,Forward Healthcare,Beauty & Health,Healthcare,Foley-Hall,2024-08-20,2025-07-19,Uttar Pradesh,Noida,5,6474.49,676.29,5094.25,3.0
+OD00488,Job Women's Clothing,Fashion,Women's Clothing,White Group,2024-11-30,2025-07-19,Delhi,New Delhi,2,500.68,15.18,287.74,4.7
+OD00489,End Fitness Equipment,Sports,Fitness Equipment,Kramer-Jenkins,2024-09-14,2025-07-11,Uttar Pradesh,Noida,4,7651.05,2108.48,6098.67,4.4
+OD00490,Although Furniture,Home & Kitchen,Furniture,Ramirez-Diaz,2024-10-05,2025-07-14,Karnataka,Bangalore,3,4836.0,260.87,3900.96,2.5
+OD00491,Stop Footwear,Fashion,Footwear,"Kelly, Juarez and Miller",2025-01-11,2025-07-17,Karnataka,Mysore,1,8886.73,288.44,1143.58,2.0
+OD00492,Home Footwear,Fashion,Footwear,"Moore, Andersen and Baird",2025-02-06,2025-07-12,West Bengal,Kolkata,3,7900.45,1949.43,4292.76,4.8
+OD00493,Water Athletic Wear,Sports,Athletic Wear,Maddox-Scott,2024-10-04,2025-07-19,Uttar Pradesh,Lucknow,3,3565.0,1056.6,1179.95,3.4
+OD00494,What Mobiles,Electronics,Mobiles,"Martinez, Stewart and Bowen",2025-04-07,2025-07-13,Delhi,New Delhi,5,9237.81,142.27,2428.62,1.7
+OD00495,Yeah Athletic Wear,Sports,Athletic Wear,Richmond and Sons,2025-02-11,2025-07-11,Maharashtra,Pune,1,1110.3,74.15,286.76,3.2
+OD00496,Sort Skincare,Beauty & Health,Skincare,"Thomas, Wiggins and Riddle",2024-08-16,2025-07-16,Karnataka,Mysore,2,2773.59,114.78,1084.16,4.8
+OD00497,Prepare Skincare,Beauty & Health,Skincare,"Grimes, Davis and Morgan",2025-06-30,2025-07-15,West Bengal,Kolkata,1,6683.65,1903.72,502.24,2.2
+OD00498,Former Makeup,Beauty & Health,Makeup,"Carpenter, Cunningham and Edwards",2024-11-16,2025-07-12,Karnataka,Mysore,4,7947.07,1473.59,7936.07,2.1
+OD00499,Girl Footwear,Fashion,Footwear,King-Miller,2024-12-18,2025-07-12,Delhi,New Delhi,5,4034.95,436.73,1232.04,1.6
+OD00500,Finally Mobiles,Electronics,Mobiles,Campbell LLC,2024-09-15,2025-07-15,West Bengal,Kolkata,4,5380.28,1215.02,4604.57,1.5
